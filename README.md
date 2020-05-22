@@ -1,7 +1,7 @@
-# DiceRollerApp
+# Dice Roller App
 Android App in Kotlin
 
-#Vector drawables 
+# Vector drawables 
 
 
-![Screenshot of the app](https://raw.githubusercontent.com/bathinaMounika/DiceRollerApp/master/screenshot.jpg)
+![Screenshot of the app](screenshot.jpg)
